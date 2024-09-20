@@ -1,8 +1,17 @@
 # Flask-User-Authentication
 
-This project is a simple user authentication system built with Flask and SQLite. It includes user registration, login, and logout functionalities, with an optional "Remember Me" feature to keep users logged in across sessions.<br>
+Welcome to the Flask User Authentication System! This project provides a simple web application built with Flask and SQLite, featuring user registration, login, logout, and an optional "Remember Me" feature to keep users logged in across sessions.<br>
 
-## Features
+## Table of Contents 📚
+- [🌟 Features](#-features)
+- [🛠 Technologies Used](#-technologies-used)
+- [📦 Installation](#-installation)
+- [📝 Usage](#-usage)
+- [📂 Files and Directories](#-files-and-directories)
+- [⚙️ Configuration](#-configuration-)
+- [🤝 Contributing](#-contributing)
+
+## 🌟 Features
 
 - User Registration: Users can create an account with a unique email and password.<br>
 - Login and Logout: Users can log in and out of their accounts.<br>
@@ -55,7 +64,7 @@ python app.py
 ```
 The application will start at http://127.0.0.1:5000.<br>
 
-## Usage
+## 📝 Usage
 
 - Home Page: Access the home page at `/`. This page includes links to the login and registration pages.<br>
 - Register: Navigate to `/register` to create a new account.<br>
