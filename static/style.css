@@ -1,0 +1,33 @@
+.logout-button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #f9f6f6; /* Red background */
+    color: black;              /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+body {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+}
+
+/* Adjust link colors for better visibility on dark background */
+a {
+    color: #4da6ff;
+}
+
+a:hover {
+    color: #80bfff;
+}
+
+/* If you have any input fields, adjust their styles */
+input {
+    background-color: #2a2a2a;
+    color: #f0f0f0;
+    border: 1px solid #444;
+}
+
+/* Adjust any other elements as needed */
