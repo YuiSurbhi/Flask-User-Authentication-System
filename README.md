@@ -8,7 +8,7 @@ Welcome to the Flask User Authentication System! This project provides a simple 
 - [📦 Installation](#-installation)
 - [📝 Usage](#-usage)
 - [📂 Files and Directories](#-files-and-directories)
-- [⚙️ Configuration](#-configuration-)
+- [⚙️ Configuration](#-configuration)
 - [🤝 Contributing](#-contributing)
 
 ## 🌟 Features
