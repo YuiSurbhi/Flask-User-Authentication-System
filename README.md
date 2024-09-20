@@ -1,4 +1,4 @@
-# Flask-User-Authentication
+# Flask User Authentication System 
 
 Welcome to the Flask User Authentication System! This project provides a simple web application built with Flask and SQLite, featuring user registration, login, logout, and an optional "Remember Me" feature to keep users logged in across sessions.<br>
 
@@ -32,7 +32,7 @@ Welcome to the Flask User Authentication System! This project provides a simple 
 
 ```bash
 git clone https://github.com/YuiSurbhi/Flask-User-Authentication.git
-cd Flask-User-Authentication
+cd Flask-User-Authentication-System 
 ```
 2. Create a virtual environment:
 
